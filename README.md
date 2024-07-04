@@ -2,6 +2,9 @@ Keeper App
 ------------------------------------------
 A React-based note-taking application that allows users to add and delete notes.
 
+![keeper](https://github.com/VaishnaviSingh1/keeper/assets/98222001/24876016-98ef-4fed-9d7b-62f353d7ed74)
+
+
 Project Description
 -----------------------------------
 The Keeper App is inspired by Google Keep. Users can create notes with titles and content, and delete notes when they are no longer needed. The app dynamically updates the displayed notes as they are added or removed.
