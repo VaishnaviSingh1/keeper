@@ -9,14 +9,17 @@ The Keeper App is inspired by Google Keep. Users can create notes with titles an
 Features
 --------------------------------
 1.Add new notes with a title and content.
+
 2.Delete existing notes.
+
 3.Dynamic rendering of notes.
+
 4.Installation
 
 Clone the repository:
 -------------------------------------------
 ```
-git clone <repository-url>
+git clone https://github.com/VaishnaviSingh1/keeper.git
 cd keeper-part-3-completed
 ```
 
@@ -35,15 +38,20 @@ Open your browser and navigate to http://localhost:3000.
 Usage
 ---------------------
 1.Press "Add" to create a new note with a title and content.
+
 2.Press the delete button on a note to remove it from the list.
 
 Technologies Used
 -----------------------------------------
 
 1.React
+
 2.Vite
+
 3.JavaScript
+
 4.HTML
+
 5.CSS
 
 
